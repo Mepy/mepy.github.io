@@ -1,6 +1,6 @@
 favicon: /img/favicon.jpg
 # Change to your profile picture
-avatar: https://pl.cs.pku.edu.cn/__local/1/5F/B4/46C04EFA338A04BE006D6ED7BAC_E02FC66C_392FF.jpg
+# avatar: https://pl.cs.pku.edu.cn/__local/1/5F/B4/46C04EFA338A04BE006D6ED7BAC_E02FC66C_392FF.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Qihao LIAN'
 author_bio: 'Ph.D. student in Programming Language.'
@@ -12,6 +12,7 @@ since: 2023
 # 可以选择外链或其他页面
 menu:
   Publications: /publications
+  Notes: /notes
   # About: /about
   # Blog: /
 
